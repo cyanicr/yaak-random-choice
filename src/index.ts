@@ -11,7 +11,6 @@ export const plugin: PluginDefinition = {
           type: "text",
           name: "values",
           label: "Values",
-          title: "Values",
           placeholder: "red, green, blue",
           description:
             "Comma-separated options. Surrounding whitespace is trimmed and empty entries are ignored.",
