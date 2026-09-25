@@ -30,9 +30,9 @@
     "check": "npm run typecheck && npm run test"
   },
   "devDependencies": {
-    "@types/node": "^26.1.2",
+    "@types/node": "^26.4.0",
     "typescript": "^7.0.2",
-    "vitest": "^4.0.14"
+    "vitest": "^4.1.11"
   },
   "dependencies": {
     "@yaakapp/api": "^0.8.3"
